@@ -3,8 +3,8 @@
 This solution contains a .NET Core Console application and an ASP.NET WebForms Application
 
 Technologies
-- [x] .NET Core;
-- [x] .NET Frameworkd;
+- [x] .NET Core 2.2;
+- [x] .NET Framework;
 
 ### TO DO
 - [ ] **Item 1**
