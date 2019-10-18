@@ -1,14 +1,21 @@
-# Troubleshooting Sample
-#### This is sample application used to learn ARISP staff some debug, trace and troubleshooting techniques and language features.
+# Troubleshooting Sample Application
+#### This is sample application that will help you understand some debug, trace and troubleshooting techniques.In addition, it also provides some additional language features such as Method Chaining and Extensions methods.
 This solution contains a .NET Core Console application and an ASP.NET WebForms Application
 
 Technologies
 - [x] .NET Core 2.2;
 - [x] .NET Framework;
 
-### TO DO
-- [ ] **Item 1**
-- [ ] **Item 2**
+### Agenda
+- [x] **DebuggerDisplay
+- [x] **DebuggerBrowsable
+- [x] **CallerMemberName
+- [x] **CallerLineNumber
+- [x] **Pre-Processor directives
+- [x] **Conditional
+- [x] **Trace
+- [ ] **Extensions Methods**
+- [ ] **Method Chaining**
 
 ## Download
 
