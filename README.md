@@ -14,6 +14,7 @@ Technologies
 - [x] **Pre-Processor directives**
 - [x] **Conditional**
 - [x] **Trace**
+- [ ] **Solution Configuration**
 - [ ] **Extensions Methods**
 - [ ] **Method Chaining**
 
