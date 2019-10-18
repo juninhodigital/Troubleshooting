@@ -1,5 +1,5 @@
 # Troubleshooting Sample Application
-#### This is sample application that will help you understand some debug, trace and troubleshooting techniques.In addition, it also provides some additional language features such as Method Chaining and Extensions methods.
+#### This is sample application will help you understand and use some debug, trace and troubleshooting techniques.In addition, it also provides some additional language features such as method chaining and extensions methods.
 This solution contains a .NET Core Console application and an ASP.NET WebForms Application
 
 Technologies
