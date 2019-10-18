@@ -7,13 +7,13 @@ Technologies
 - [x] .NET Framework;
 
 ### Agenda
-- [x] **DebuggerDisplay
-- [x] **DebuggerBrowsable
-- [x] **CallerMemberName
-- [x] **CallerLineNumber
-- [x] **Pre-Processor directives
-- [x] **Conditional
-- [x] **Trace
+- [x] **DebuggerDisplay**
+- [x] **DebuggerBrowsable**
+- [x] **CallerMemberName**
+- [x] **CallerLineNumber**
+- [x] **Pre-Processor directives**
+- [x] **Conditional**
+- [x] **Trace**
 - [ ] **Extensions Methods**
 - [ ] **Method Chaining**
 
